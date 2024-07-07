@@ -4,7 +4,7 @@ Dataset used:"Panda dataset"
 Lidar Point Cloud Semantic Segmentation Using SqueezeSegV2 Deep Learning Network
 
 <img src="https://github.com/Noorjahan0905/ImagesegmentationusingLiDAR/assets/105159578/8efd3124-3912-416c-a7c2-a89f9ef4dca4" width="300">
-![image](https://github.com/Noorjahan0905/ImagesegmentationusingLiDAR/assets/105159578/bf1365a9-63e7-4581-be72-1b30e05db85a)
+<img src="https://github.com/Noorjahan0905/ImagesegmentationusingLiDAR/assets/105159578/bf1365a9-63e7-4581-be72-1b30e05db85a" width="300")
 
 Accuracy of each Labelled classes
 
